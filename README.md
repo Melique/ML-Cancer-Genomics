@@ -32,3 +32,8 @@ rowIQR <- function(eSet) {
 A lot of the features are measuded different thus havign not euqla infuclen on our model. We standardixe alll feartues so all features have equal infulence in the modle. The values of features will range from -1 to 1 (some featurs will slighty be outwsside the range which is fine.)
 
 ## Distance and Similatries metric
+
+we use eulidean and manthanan dsitacne to give us inssight about our data. unsupeervised elanring ans hsi
+red = closerly related to eah other 
+
+
